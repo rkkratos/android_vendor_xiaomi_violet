@@ -750,6 +750,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/violet/proprietary/vendor/lib64/libmegface.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmegface.so \
     vendor/xiaomi/violet/proprietary/vendor/lib64/libmibokeh_660.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmibokeh_660.so \
     vendor/xiaomi/violet/proprietary/vendor/lib64/libminkdescriptor.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libminkdescriptor.so \
+    vendor/xiaomi/violet/proprietary/vendor/lib64/libminksocket.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libminksocket.so \
     vendor/xiaomi/violet/proprietary/vendor/lib64/libmlipay.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmlipay.so \
     vendor/xiaomi/violet/proprietary/vendor/lib64/libmlipay@1.1.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmlipay@1.1.so \
     vendor/xiaomi/violet/proprietary/vendor/lib64/libmm-color-convertor.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmm-color-convertor.so \
